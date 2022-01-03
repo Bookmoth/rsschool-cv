@@ -20,12 +20,12 @@ return  a * b
 
 ## My experience in a nutshell 
 * February 2021 — current — Deutsche Telekom IT Solutions (T-Systems Russia)
-As a manual tester I am responsible for quality of the frontend part of our service. I am checking how these UIs look and work. 
+    + As a manual tester I am responsible for quality of the frontend part of our service. I am checking how these UIs look and work. 
 
 * Up to the middle of December of 2020 I worked for Yandex in different roles. The most interesting of them were:
     + Manual testing of different services and products (more than 3 years in total)
     + Technical support (2nd and 3rd lines) for Yandex.Disk (part-time, 20 hours per week for 3 years)
 
 ## Languages:
-English - Upper-intermediate
-Russian - Native
++ English — Upper-intermediate
++ Russian — Native
