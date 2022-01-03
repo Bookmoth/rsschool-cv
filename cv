@@ -1,24 +1,24 @@
-#Polina Voronkina 
+# Polina Voronkina 
 
-##Contacts:
+## Contacts:
 * Discord: Readman#6207
 * GitHub: https://github.com/Bookmoth
 * Location: Moscow region, Russia
 
-##About me
+## About me
 I want to develop myself as a QA specialist that can use all helpful instruments. So, now I am studying JavaScript because I want to be able write and support autotests for any UI in the near future.
 
-##Skills
+## Skills
 * JavaScript basics
 * HTML5, CSS3
 * Git
 
-##Code example
+## Code example
 function multiply(a, b){
 return  a * b
 }
 
-##My experience in a nutshell 
+## My experience in a nutshell 
 * February 2021 — current — Deutsche Telekom IT Solutions (T-Systems Russia)
 As a manual tester I am responsible for quality of the frontend part of our service. I am checking how these UIs look and work. 
 
@@ -26,7 +26,7 @@ As a manual tester I am responsible for quality of the frontend part of our serv
     + Manual testing of different services and products (more than 3 years in total)
     + Technical support (2nd and 3rd lines) for Yandex.Disk (part-time, 20 hours per week for 3 years)
 
-##Languages:
+## Languages:
 English - Upper-intermediate
 Russian - Native
 
